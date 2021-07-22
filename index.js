@@ -56,4 +56,4 @@ client.on('message', message => {
 
 //login
 //keep at end of file, last line 
-client.login('ODY3Mjc1ODY3MTM0MjMwNTY5.YPevlw.ojrBUDaCChHGuEV2Xdl82HQ4v_c');
+client.login(' ');
